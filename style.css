@@ -1,0 +1,62 @@
+*{
+    text-decoration: none;
+}
+
+html{
+    background-color: aqua;
+    text-decoration: none;
+}
+
+.inscription{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.codeco{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.profil{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.admin{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.connexion{
+    display:flex;
+    justify-content: center;
+    
+}
+
+
+.index{
+    display: flex;
+    justify-content: center;
+    
+}
+.codeco a {
+
+    color: black;
+}
+
+.deco{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.deco a {
+    color: black;
+}
